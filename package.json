@@ -1,0 +1,26 @@
+{
+  "name": "base-bot",
+  "version": "1.0.0",
+  "description": "discord-bot-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "basebotstart"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lua6263/base-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "o.kravchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lua6263/base-bot/issues"
+  },
+  "homepage": "https://github.com/lua6263/base-bot#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
